@@ -1,0 +1,8 @@
+/* Black and white, nothing decorative. Same base look as the trading games site. */
+body {
+  max-width: 700px; margin: 0 auto; padding: 16px;
+  font: 16px/1.4 system-ui, sans-serif; color: #000; background: #fff;
+}
+a { color: inherit; }
+li { margin: 6px 0; }
+footer { margin-top: 32px; color: #666; font-size: 0.9em; }
